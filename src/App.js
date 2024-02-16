@@ -1,9 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+// import Garage from './components/garage';
 
 function App() {
   return (
-    <h2>Hello me</h2>
+    // <Garage/>    
+    <h1>App component</h1>
   );
 }
 
